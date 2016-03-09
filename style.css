@@ -1,0 +1,20 @@
+.item{
+  text-align: center;
+  background-color: grey;
+  height: 100px;
+  width: 200px;
+  overflow: scroll;
+  border: 1px solid black;
+  display: inline-block;
+}
+button{
+  display: inline;
+  height: 50px;
+  width: 90px;
+}
+#cookie{
+  border: none;
+  background: none;
+  height: inherit;
+  width: inherit;
+}
